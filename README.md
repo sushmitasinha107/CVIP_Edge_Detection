@@ -2,10 +2,10 @@
 
 ## Problem 1: Edge Detection
 
-Application	of	Sobel	filter	in	x	axis	y	axis	and	taking	squared	average	of	both	
+Application	of	Sobel	filter	in	x	axis	y	axis	and	taking	squared	average	of	both	<br />
 (a)	Obtain	and	display	the	DoG	image	by	applying	the	following	DoG	mask	to	the	test	image <br />
 (b)Compute	and	display	the	zero-crossing	of	the	DoG	image	obtained	in	(a)	<br />
-(c)	Compute	and	display	the	zero-crossing	strong	edges	by	removing	weak	edges	that	do	not	have	first	derivative	support	in	(b) <br />
+(c)	Compute	and	display	the	zero-crossing	strong	edges	by	removing	weak	edges <br />
 (d)	Compute	and	display	the	LoG	zero-crossing	edges	by	applying	the	following	LoG	mask	to	the	test	image <br />
 (e)	Compare	the	results	in	(c)	and	(d)	and	explain	why	the	edges	obtained	in	(c)	and	(d)	are	different		<br />
 
